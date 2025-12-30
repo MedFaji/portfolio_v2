@@ -155,12 +155,14 @@ export default function Home() {
                 size="lg"
                 className="w-full sm:w-auto bg-transparent hover:text-primary border-primary"
               >
-                <Link href="#contact">{t.hero.cta}</Link>
+                <Link href="https://drive.google.com/file/d/1djlcldsCLlGCRnHDgT3mrPo5pRsSFfge/view?usp=sharing">
+                  {t.hero.cta}
+                </Link>
               </Button>
               <div className="flex gap-5 items-center">
                 {/* add linkedin */}
                 <a
-                  href="#"
+                  href="https://linkedin.com/in/medfaji"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-muted-foreground hover:text-foreground transition"
@@ -168,7 +170,7 @@ export default function Home() {
                   <Linkedin className="w-5 h-5" />
                 </a>
                 <a
-                  href="https://github.com/yourusername"
+                  href="https://github.com/MedFaji"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-muted-foreground hover:text-foreground transition"
@@ -177,7 +179,7 @@ export default function Home() {
                 </a>
 
                 <a
-                  href="https://linkedin.com/in/yourusername"
+                  href="https://twitter.com/med_faji"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-muted-foreground hover:text-foreground transition"
