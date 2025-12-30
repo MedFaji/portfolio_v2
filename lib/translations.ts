@@ -123,7 +123,7 @@ export const translations = {
       title: "Ingénieur Informatique | Web & UI/UX",
       description:
         "Je conçois et développe des applications web modernes pour des projets ambitieux.",
-      cta: "Me contacter",
+      cta: "CV",
       viewWork: "Voir mes travaux",
     },
     about: {
