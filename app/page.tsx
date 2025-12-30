@@ -445,11 +445,11 @@ export default function Home() {
           <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold mb-4 sm:mb-6 text-balance">
             {t.contact.title}
           </h2>
-          <p className="text-base sm:text-lg md:text-xl text-muted-foreground mb-8 sm:mb-12 max-w-2xl mx-auto leading-relaxed">
+          <p className="text-base font-semibold sm:text-lg md:text-xl text-muted-foreground mb-8 sm:mb-12 max-w-2xl mx-auto leading-relaxed">
             {t.contact.description}
           </p>
           <Button size="lg" asChild className="w-full sm:w-auto mb-8">
-            <a href="mailto:hello@example.com" className="gap-2">
+            <a href="mailto:mohamedfaji@outlook.com" className="gap-2">
               <Mail className="w-4 h-4" />
               {t.contact.email}
             </a>
@@ -467,13 +467,18 @@ export default function Home() {
                 <span className="text-muted-foreground">Built with</span>
                 <SiNextdotjs className="w-4 h-4" />
                 <span className="text-muted-foreground">&</span>
-                <SiTailwindcss className="w-4 h-4" style={{ color: "#06B6D4" }} />
+                <SiTailwindcss
+                  className="w-4 h-4"
+                  style={{ color: "#06B6D4" }}
+                />
               </div>
             </div>
           </div>
           <div className="flex gap-4 sm:gap-6">
             <a
-              href="#"
+              href="https://github.com/MedFaji"
+              target="_blank"
+              rel="noopener noreferrer"
               className="text-muted-foreground hover:text-foreground transition"
             >
               <SiGithub className="w-5 h-5" />
@@ -481,14 +486,16 @@ export default function Home() {
             </a>
 
             <a
-              href="#"
+              href="https://twitter.com/med_faji"
+              target="_blank"
+              rel="noopener noreferrer"
               className="text-muted-foreground hover:text-foreground transition"
             >
               <SiX className="w-5 h-5" />
               <span className="sr-only">Twitter</span>
             </a>
             <a
-              href="#"
+              href="mailto:mohamedfaji@outlook.com"
               className="text-muted-foreground hover:text-foreground transition"
             >
               <Mail className="w-5 h-5" />

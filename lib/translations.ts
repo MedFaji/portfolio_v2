@@ -120,9 +120,9 @@ export const translations = {
       contact: "Contact",
     },
     hero: {
-      title: "Ingénieur en Informatique | Web & UI/UX",
+      title: "Ingénieur Informatique | Web & UI/UX",
       description:
-        "Je conçois et développe des applications web modernes pour des projets ambitieux. Des interfaces intuitives aux systèmes robustes et évolutifs, je crée des produits faciles à utiliser, performants et conçus pour durer.",
+        "Je conçois et développe des applications web modernes pour des projets ambitieux.",
       cta: "Me contacter",
       viewWork: "Voir mes travaux",
     },
