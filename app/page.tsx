@@ -312,7 +312,7 @@ export default function Home() {
                   </div>
                 </div>
 
-                <p className="text-sm sm:text-base text-muted-foreground leading-relaxed">
+                <p className="text-sm sm:text-base font-semibold text-muted-foreground leading-relaxed">
                   {experience.description}
                 </p>
 
