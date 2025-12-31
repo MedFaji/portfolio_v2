@@ -10,7 +10,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Medevz | Creative Developer & Designer",
+  title: "Mohamed FAJI | Creative Developer & Designer",
   description:
     "Creative developer & designer building beautiful web experiences with modern technologies. Specializing in Next.js, React, and thoughtful UI/UX design.",
   generator: "Next.js",

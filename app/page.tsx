@@ -103,7 +103,7 @@ export default function Home() {
       <nav className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-sm border-b border-border">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 py-4 flex items-center justify-between">
           <div className="font-bold text-lg sm:text-xl">
-            <span className="bg-gradient-to-r from-cyan-500 to-blue-500 bg-clip-text text-transparent">{`MEDEVZ`}</span>
+            <span className="bg-gradient-to-r from-cyan-500 to-blue-500 bg-clip-text text-transparent">{`Mohamed FAJI`}</span>
           </div>
           <div className="hidden sm:flex items-center gap-4 sm:gap-8">
             <Link

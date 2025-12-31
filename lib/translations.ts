@@ -108,7 +108,7 @@ export const translations = {
       email: "Send me an email",
     },
     footer: {
-      copyright: "© 2026 Medevz. All rights reserved.",
+      copyright: "© 2026 Mohamed FAJI. All rights reserved.",
     },
   },
   fr: {
@@ -217,7 +217,7 @@ export const translations = {
       email: "M'envoyer un email",
     },
     footer: {
-      copyright: "© 2025 Medevz. Tous les droits réservés.",
+      copyright: "© 2025 Mohamed FAJI. Tous les droits réservés.",
     },
   },
 };
