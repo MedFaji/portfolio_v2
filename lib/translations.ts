@@ -217,7 +217,7 @@ export const translations = {
       email: "M'envoyer un email",
     },
     footer: {
-      copyright: "© 2025 Mohamed FAJI. Tous les droits réservés.",
+      copyright: "© 2026 Mohamed FAJI. Tous les droits réservés.",
     },
   },
 };
