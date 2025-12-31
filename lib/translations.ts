@@ -17,7 +17,7 @@ export const translations = {
     about: {
       title: "About Me",
       description1:
-        "I'm a full-stack developer passionate about creating exceptional digital experiences. With over 5 years of experience in web development, I've worked with startups and established companies to bring their visions to life.",
+        "I'm a full-stack developer passionate about creating exceptional digital experiences. With over 2 years of experience in web development, I've worked with startups and established companies to bring their visions to life.",
       description2:
         "My approach combines clean code, user-centered design, and a deep understanding of modern web technologies. I believe the best solutions come from the intersection of good design and engineering.",
       techTitle: "Technologies I Use",
@@ -129,7 +129,7 @@ export const translations = {
     about: {
       title: "À propos de moi",
       description1:
-        "Je suis un développeur full-stack passionné par la création d'expériences numériques exceptionnelles. Avec plus de 5 ans d'expérience en développement web, j'ai travaillé avec des startups et des entreprises établies pour concrétiser leurs visions.",
+        "Je suis un développeur full-stack passionné par la création d'expériences numériques exceptionnelles. Avec plus de 2 ans d'expérience en développement web, j'ai travaillé avec des startups et des entreprises établies pour concrétiser leurs visions.",
       description2:
         "Mon approche combine du code propre, un design centré sur l'utilisateur et une compréhension approfondie des technologies web modernes. Je crois que les meilleures solutions naissent de l'intersection entre un bon design et l'ingénierie.",
       techTitle: "Technologies que j'utilise",
