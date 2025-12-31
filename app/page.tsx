@@ -320,10 +320,23 @@ export default function Home() {
                   {experience.highlights.map((item, idx) => (
                     <li
                       key={idx}
-                      className="flex gap-2 sm:gap-3 leading-relaxed"
+                      className="flex gap-2 sm:gap-3 leading-relaxed items-center"
                     >
                       <span className="text-primary mt-1.5 flex-shrink-0">
-                        •
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          className="h-4 w-4 sm:h-5 sm:w-5"
+                          fill="none"
+                          viewBox="0 0 24 24"
+                          stroke="currentColor"
+                        >
+                          <path
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
+                            strokeWidth={3}
+                            d="M5 13l4 4L19 7"
+                          />
+                        </svg>
                       </span>
                       <span>{item}</span>
                     </li>
